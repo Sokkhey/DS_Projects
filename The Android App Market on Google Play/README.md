@@ -7,7 +7,7 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 
 # Project Tasks
 
-1. Google Play Store apps and reviews
+1. **Google Play** Store apps and reviews
 2. Data cleaning
 3. Exploring app categories
 4. Distribution of app ratings
