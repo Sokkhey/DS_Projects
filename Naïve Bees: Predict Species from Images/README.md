@@ -3,7 +3,7 @@ Can a machine distinguish between a honey bee and a bumble bee? Being able to id
 
 This project is the second part of a series of projects that walk through working with image data, building classifiers using traditional techniques, and leveraging the power of deep learning for computer vision.
 
-Before taking this project, it will help to have completed Naïve Bees: Image Loading and Processing.
+Before taking this project, it will help to have completed **Naïve Bees: Image Loading and Processing**.
 
 # Project Tasks
 1. Import Python libraries
