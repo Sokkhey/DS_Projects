@@ -1,4 +1,5 @@
-#Project Description
+# Project Description
+
 Writing functions make your analyses more readable and more repeatable. In this project, you'll perform an analysis of food prices in Rwanda, then wrap your code into functions in order to apply your analysis to other food types.
 
 Throughout the project, the ability to import, wrangle, manipulate, and forecast data will come in handy.
